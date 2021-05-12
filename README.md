@@ -4,7 +4,7 @@
 
 *Regras de negócio:*
 
-><A API precisa registrar os seguintes campos do Funcionarios>
+>A API precisa registrar os seguintes campos do Funcionarios
   - [x] i) id;
   - [x] i) name; 
   - [x] ii) salary; 
