@@ -13,7 +13,7 @@
 
 ## Procedimentos
 
-  * Realizar um clone do projeto através do command `git clone https://github.com/edcamargo/integration.git`
+  * Realizar um clone do projeto através do command `https://github.com/MateusMaceedo/dotnet-integration-api.git`
 
   * Entrar na pasta do projeto e excutar o comando abaixo.
 
