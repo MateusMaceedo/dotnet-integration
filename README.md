@@ -6,7 +6,7 @@
 
 ### A API precisa registrar os seguintes campos do Funcionarios: 
 
-  - i) id;
+  - [x] i) id;
   - i) name; 
   - ii) salary; 
   - iii) email; 
