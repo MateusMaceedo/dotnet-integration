@@ -7,9 +7,9 @@
 ### A API precisa registrar os seguintes campos do Funcionarios: 
 
   - [x] i) id;
-  - i) name; 
-  - ii) salary; 
-  - iii) email; 
+  - [x] i) name; 
+  - [x] ii) salary; 
+  - [x] iii) email; 
 
 ## Procedimentos
 
