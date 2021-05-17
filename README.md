@@ -1,6 +1,6 @@
 ## Integração de API DotNet
 
->Criação de uma APi restful.
+>Criação de uma APi Restful.
 
 *Regras de negócio:*
 
