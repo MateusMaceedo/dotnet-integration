@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Integration.Domain.Services\Integration.Domain.Services.csproj" />
+    <ProjectReference Include="..\Integration.Domain\Integration.Domain.csproj" />
+    <ProjectReference Include="..\Integration.InfraStruture.Data\Integration.InfraStruture.Data.csproj" />
+  </ItemGroup>
+
+</Project>
